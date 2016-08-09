@@ -21,7 +21,7 @@ body {
     display: table-cell;
     vertical-align: middle;
     background-color: #161616;
-    color: lightblue;
+    color: white;
 }
 
 h1{
@@ -32,7 +32,7 @@ h1{
 
 h3{
     margin:0px;
-    color: #CED7A7;
+    color: lightblue;
 }
 
 #main {
