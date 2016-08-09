@@ -21,18 +21,18 @@ body {
     display: table-cell;
     vertical-align: middle;
     background-color: #161616;
-    color: 	#F0F8FF;
+    color: 	#E6E6FA;
 }
 
 h1{
     margin-top:0px;
     margin-bottom: 10px;
-    border-bottom: 1px lightblue;
+    border-bottom: 1px #E6E6FA;
 }
 
 h3{
     margin:0px;
-    color: lightblue;
+    color: #E6E6FA;
 }
 
 #main {
