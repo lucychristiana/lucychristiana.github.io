@@ -11,7 +11,6 @@ var rules = {
   
    "~*x What are you studying ~*y": [
     "I am studying Biology and Sociology. What are you studying?"
-    "I am interested in Biology and Sociology. But enough about me, what are your interests?"
   ],
   
    "~*x like ~*y": [
